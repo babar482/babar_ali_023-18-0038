@@ -4,7 +4,7 @@ function HeroSection() {
   const heroImageStyle = {
     width: '100%', // Make the image fill the container width
     maxHeight: '250px', // Set a maximum height for the image
-    objectFit: 'cover', // Maintain aspect ratio and cover the container
+    objectFit: 'cover', 
   };
 
   return (
